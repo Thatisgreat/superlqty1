@@ -2,6 +2,7 @@ import { defineConfig } from 'umi';
 import routes from './router';
 
 export default defineConfig({
+  publicPath: './',
   model: {},
   tailwindcss: {},
   access: {},
