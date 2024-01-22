@@ -2,7 +2,7 @@ import { defineConfig } from 'umi';
 import routes from './router';
 
 export default defineConfig({
-  publicPath: './',
+  publicPath: process.env.NODE_ENV === 'production' ? './' : '/',
   model: {},
   tailwindcss: {},
   access: {},
