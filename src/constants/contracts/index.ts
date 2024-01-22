@@ -236,7 +236,7 @@ export const contractAbis: LiquityContractAbis = {
   erc20: erc20ABI,
 };
 
-export const isProd = process.env.NODE_ENV === 'development';
+export const isProd = process.env.NODE_ENV !== 'development';
 // export const envData = !isProd ? localDeployed : mainnetDepolyed;
 export const envData = !isProd ? localDeployed : mainnetDepolyed;
 
