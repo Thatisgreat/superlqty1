@@ -10,7 +10,7 @@ export default defineConfig({
   define: {},
   request: { dataField: '' },
   history: {
-    type: 'browser',
+    type: 'hash',
   },
   theme: {},
   layout: false,
