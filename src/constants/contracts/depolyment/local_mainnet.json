@@ -1,0 +1,34 @@
+{
+  "version": "0x426d1f2a992660d1e15d19e6ba64b1620e4255f5bd2",
+  "deploymentDate": 1704867827412,
+  "_isDev": false,
+  "addresses": {
+    "PrismaCore": "0x5d17eA085F2FF5da3e6979D5d26F1dBaB664ccf8",
+    "PriceFeed": "0xC105CeAcAeD23cad3E9607666FEF0b773BC86aac",
+    "FeeReceiver": "0xfdCE0267803C6a0D209D3721d2f01Fd618e9CBF8",
+    "GasPool": "0xE0598D793bAf7b4f49F4a003885E4180B28caB61",
+    "Factory": "0x70b66E20766b775B2E9cE5B718bbD285Af59b7E1",
+    "BorrowerOperations": "0x72c590349535AD52e6953744cb2A36B409542719",
+    "DebtToken": "0x4591DBfF62656E7859Afe5e45f6f47D3669fBB28",
+    "TroveManager": "0x4482BD395d78d36AF31a1d58fe86958707861Cf5",
+    "StabilityPool": "0xed8B26D99834540C5013701bB3715faFD39993Ba",
+    "SortedTroves": "0x3BaB3F90095c424b923D67F4bE1790935c8BBb50",
+    "LiquidationManager": "0x5de309dfd7f94e9e2A18Cb6bA61CA305aBF8e9E2",
+    "MultiCollateralHintHelpers": "0x3C5871D69C8d6503001e1A8f3bF7E5EbE447A9Cd",
+    "MultiTroveGetter": "0x58fa5521f48b258B5e48A56b9B1bd95bFFA1eb1C",
+    "TroveManagerGetters": "0xc9C2D0bFb9860AD89a91D2069A8d73A6f903e9C4",
+    "TokenLocker": "0x3f78544364c3eCcDCe4d9C89a630AEa26122829d",
+    "IncentiveVoting": "0xfd8DF0Db401Ab7EC7a06a8465134FA32132e850C",
+    "PrismaVault": "0x06bDF212C290473dCACea9793890C5024c7Eb02c",
+    "PrismaToken": "0xdA47862a83dac0c112BA89c6abC2159b95afd71C",
+    "EmissionSchedule": "0x906E0d769Aae4fb3f53d3C989a50520a8e851F42",
+    "BoostCalculator": "0x31ae4cbfaFB007a908F348Cf95Ce4b535D5A8fa3",
+
+    "LPDepositToken": "0x63CFF0741499fd8B914B863b92721E826Fca8884",
+    "LPFactory": "0x64468CAFeBA8D6642d5dB7Ea31ad230EA67Ff9aC"
+  },
+  "chain": {
+    "chainId": 1337,
+    "explore": "https://etherscan.io"
+  }
+}

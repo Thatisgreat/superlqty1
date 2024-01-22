@@ -1,0 +1,32 @@
+{
+  "version": "0x3889125863608c99aa82c45b9552d13d",
+  "deploymentDate": 1705923598259,
+  "addresses": {
+    "PrismaCore": "0x01e1db8A1b9f5a9a564CA3Ee1cefc6786baFE888",
+    "PriceFeed": "0x14398957B108D54481e737A41B497145215DD90e",
+    "FeeReceiver": "0x7D661CFC1F343a0f33b7A985F78f2177bdCf2EE8",
+    "GasPool": "0x7D854Ec97881E475B08B9250f6445C4E7E0bd9D9",
+    "Factory": "0xe8670B18D609Ba6b5fCDC35258911e7bEA4b8a31",
+    "BorrowerOperations": "0x23737FAb6905E1CC86B48351dbB1DE69BC11Aa30",
+    "DebtToken": "0xBE8AB2D23e35f20535267060F30d4a61561Ec93E",
+    "TroveManager": "0x72d955aB6d418c28169aB9E2a880c6d050f4d88D",
+    "StabilityPool": "0xdD8C7136e2437Fb8A54104252Cab66B545d45f05",
+    "SortedTroves": "0xD334E63e2037Bcf978601318dBd45d5DAD1a1C25",
+    "LiquidationManager": "0xa8B61fB1FF3747e9b747913431616a97900F55d8",
+    "MultiCollateralHintHelpers": "0x84A80E66403FaED3799EFfE2805D0c1ed963587C",
+    "MultiTroveGetter": "0x1D6852D0e56c8dD82C1e81469Cb4525BF1Add4AF",
+    "TroveManagerGetters": "0x17CA3AA5A235e6B4a4213E14ba0212c60A46b87F",
+    "TokenLocker": "0x08F8148C33Acbb1aA221C0CC2a97A840ffBa061E",
+    "IncentiveVoting": "0xc70e2F399978d5c79776C75b54a55C387C0c9EB7",
+    "PrismaVault": "0xf981eD6b915e0c4D596d592a57bf283D882C5c60",
+    "PrismaToken": "0x41ef58695EA5915d603D599Ade4aF47bbCAfAfFc",
+    "EmissionSchedule": "0xe06ddC156605087885767fC67Fb16B4Db9EF1176",
+    "BoostCalculator": "0x671FC727c2AA0937083A3Ad5F48846e55Ec38db4",
+    "LPDepositToken": "0xDb180D19BAcE364E78317b983b7EDEA06ED10FF6",
+    "LPFactory": "0xbE8DB7571A4955dD08488d53EB94AecCd7c96383"
+  },
+  "chain": {
+    "chainId": 534352,
+    "explore": "https://scrollscan.com"
+  }
+}

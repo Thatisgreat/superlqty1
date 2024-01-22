@@ -1,0 +1,6 @@
+{
+  "extends": "./src/.umi/tsconfig.json",
+  "compilerOptions": {
+    "resolvePackageJsonExports": false // connectkit's exports need updating
+  }
+}

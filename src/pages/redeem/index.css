@@ -1,0 +1,13 @@
+.trove-manager-tab-active {
+  color: #B4FF00;
+  background-color: #B4FF00;
+  font-weight: bold;
+  color: black;
+}
+
+.trove-manager-tab-active-hover:hover {
+  color: #B4FF00;
+  background-color: #B4FF00;
+  font-weight: bold;
+  color: black;
+}

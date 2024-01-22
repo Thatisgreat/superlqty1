@@ -1,0 +1,70 @@
+[
+  {
+    "inputs": [
+      {
+        "internalType": "contract IFactory",
+        "name": "_factory",
+        "type": "address"
+      }
+    ],
+    "stateMutability": "nonpayable",
+    "type": "constructor"
+  },
+  {
+    "inputs": [],
+    "name": "factory",
+    "outputs": [
+      {
+        "internalType": "contract IFactory",
+        "name": "",
+        "type": "address"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "account",
+        "type": "address"
+      }
+    ],
+    "name": "getActiveTroveManagersForAccount",
+    "outputs": [
+      {
+        "internalType": "address[]",
+        "name": "",
+        "type": "address[]"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "getAllCollateralsAndTroveManagers",
+    "outputs": [
+      {
+        "components": [
+          {
+            "internalType": "address",
+            "name": "collateral",
+            "type": "address"
+          },
+          {
+            "internalType": "address[]",
+            "name": "troveManagers",
+            "type": "address[]"
+          }
+        ],
+        "internalType": "struct TroveManagerGetters.Collateral[]",
+        "name": "",
+        "type": "tuple[]"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
